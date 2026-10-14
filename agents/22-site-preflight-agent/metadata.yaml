@@ -1,5 +1,5 @@
 title: site-preflight-agent
-description: A web agent that gets a signed, locally verified decision from CrawlCheck before it reads, cites or connects to any site, and keeps every decision receipt
+description: A web agent that gets a signed, locally verified decision from CrawlCheck before it reads or cites any site, and keeps every decision receipt
 author: emmanuelorta
 language: python
 framework: other
